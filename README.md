@@ -1,0 +1,2 @@
+# KlonowaneRez
+Pierwsze klonowane repozytorium
